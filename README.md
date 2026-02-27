@@ -28,6 +28,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Blending Product Thinking With Architecture | Joel Tosi | [PDF](2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
 | Kubernetes on a Phone | Johannes Bechberger | [PDF](2026-02-26/kubernetes-johannes_bechberger.pdf) |
 | Avoiding Déjà Vu: Building Resilient APIs with Idempotency | Paul Conroy | [PDF](2026-02-26/avoiding_deja_vu_building_resilient_apis_with_idempotency-paul_conroy.pdf) |
+| What's New in ASP.NET Core 10 and Blazor 10 | Christian Wenz | [PDF](2026-02-26/new_in_asp.net_core_10_and_blazor_10-christian_wenz.pdf) |
 
 ## February 27
 
@@ -36,3 +37,4 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | A web for anyone, anywhere, anytime | Rowdy Rabouw | [Slides (PDF)](2026-02-27/A_web_for_anyone_anywhere_anytime_Rowdy_Rabouw.pdf) |
 | Tailwind CSS - Styliser sans devenir fou | Mathys Deshaies | [PDF](2026-02-27/tailwind_css_styliser_sans_devenir_fou-mathys_deshaies.pdf) |
 | JDK 25’s new CPU-Time Profiler | Johannes Bechberger | [PDF](2026-02-27/cpu_time_profiler-johannes_bechberger.pdf) |
+| The 2025 OWASP Top Ten | Christian Wenz | [PDF](2026-02-27/the_2025_owasp_top_ten-christian_wenz.pdf) |
