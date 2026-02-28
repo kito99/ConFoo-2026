@@ -31,6 +31,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Blending Product Thinking With Architecture | Joel Tosi | [PDF](2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
 | Kubernetes on a Phone | Johannes Bechberger | [PDF](2026-02-26/kubernetes-johannes_bechberger.pdf) |
 | Avoiding Déjà Vu: Building Resilient APIs with Idempotency | Paul Conroy | [PDF](2026-02-26/avoiding_deja_vu_building_resilient_apis_with_idempotency-paul_conroy.pdf) |
+| From Address to Dashboard: Weather History at Scale | Loïc Tréhin | [PDF](2026-02-26/from_address_to_dashboard_weather_history_at_scale-loic_trehin.pdf) |
 | ASP.NET Core Authentication Explained | Wesley Cabus | [PDF](2026-02-26/asp_net_core_authentication_explained-wesley_cabus.pdf) |
 
 ## February 27
